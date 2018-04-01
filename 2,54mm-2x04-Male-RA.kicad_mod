@@ -1,4 +1,4 @@
-(module 2,54mm-2x04-Male-RA (layer F.Cu) (tedit 5AB3BD86)
+(module 2,54mm-2x04-Male-RA (layer F.Cu) (tedit 5AB50F5E)
   (fp_text reference XP** (at 0 6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -83,8 +83,8 @@
   (pad 3 thru_hole circle (at 1.27 4.06 180) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.81 1.52 180) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 3.81 4.06 180) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)(roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Connector_Strip.3dshapes/2,54mm-2x04-Male-RA.stp
-    (offset (xyz 0 0 3.05))
+  (model ${KISYS3DMOD}/Connector-Strip.3dshapes/2,54mm-2x04-Male-RA.stp
+    (offset (xyz 0 0 2.54))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )

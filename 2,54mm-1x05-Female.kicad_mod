@@ -1,4 +1,4 @@
-(module 2,54mm-1x05-Female (layer F.Cu) (tedit 5AB3A1D7)
+(module 2,54mm-1x05-Female (layer F.Cu) (tedit 5AB4E42F)
   (fp_text reference XS** (at 0 2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,7 +14,7 @@
   (pad 3 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Strip.3dshapes/2,54mm-1x05-Female.stp
+  (model ${KISYS3DMOD}/Connector-Strip.3dshapes/2,54mm-1x05-Female.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

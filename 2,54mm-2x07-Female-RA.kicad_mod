@@ -51,7 +51,7 @@
   (pad 6 thru_hole circle (at -2.54 1.52) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 0 4.06) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 0 1.52) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Strip.3dshapes/2,54mm-2x07-Female-RA.stp
+  (model ${KISYS3DMOD}/Connector-Strip.3dshapes/2,54mm-2x07-Female-RA.stp
     (offset (xyz 0 0 2.475))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

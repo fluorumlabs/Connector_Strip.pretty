@@ -50,7 +50,7 @@
   (pad 3 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Strip.3dshapes/2,54mm-1x05-Male.stp
+  (model ${KISYS3DMOD}/Connector-Strip.3dshapes/2,54mm-1x05-Male.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
